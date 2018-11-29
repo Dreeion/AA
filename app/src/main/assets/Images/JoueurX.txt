@@ -1,0 +1,10 @@
+0 = défaut
+1 = JSPC
+2 = Raptor
+3 = Dreion
+4 = Hupsy
+5 = Capi
+6 = Mélou
+7 = Banane Mystérieuse
+8 = Nova
+9 = L'Insoumis
